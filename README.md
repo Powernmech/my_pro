@@ -1,3 +1,3 @@
 # my_pro
-for python 
+for python ali is hero 
 ### for my first 
